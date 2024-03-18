@@ -1,2 +1,6 @@
 # Machine-Learning
-机器学习
+bp神经网络及改进算法
+
+基于svd算法的图片压缩
+
+
